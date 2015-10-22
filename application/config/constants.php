@@ -3,6 +3,8 @@
 // location of data folders
 define('DATA_FOLDER', './data');
 
+define('BR', '<br/>');
+
 /*
 |--------------------------------------------------------------------------
 | File Stream Modes
